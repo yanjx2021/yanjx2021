@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yanjx2021
 - 👀 I’m interested in playing basketball and write project codes
-- 🌱 I’m currently learning big models and related tools
+- 🌱 I’m currently learning large language models and related tools
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : you can relate with my mail "2430833252@qq.com"
 
